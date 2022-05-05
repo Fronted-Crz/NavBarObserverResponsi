@@ -1,0 +1,35 @@
+html {
+  box-sizing: border-box;
+  font-family: poppins, 'sans-serif';
+  font-size: 16px;
+  max-width: 1440px;
+  min-height: 100vh;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: #f2f6f7;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
